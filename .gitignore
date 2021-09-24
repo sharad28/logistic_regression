@@ -109,6 +109,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# local folder
+/.idea
+/bending1
+/bending2
+/cycling
+/lying
+/sitting
+/standing
+/walking
+/ARem.zip
 
 # Spyder project settings
 .spyderproject
