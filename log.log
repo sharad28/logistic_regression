@@ -1,0 +1,155 @@
+2021-09-16 23:33:01,797:lg:INFO:Extraction of file started
+2021-09-16 23:33:01,833:lg:INFO:filling empty with mean
+2021-09-16 23:38:53,634:lg:INFO:Extraction of file started
+2021-09-16 23:38:53,635:lg:INFO:Old file exist, therefore taking data from it
+2021-09-16 23:38:53,681:lg:INFO:filling empty with mean
+2021-09-16 23:38:53,687:lg:INFO:extract x and y from dataframe
+2021-09-16 23:38:53,688:lg:INFO:EDA for outlier is performed
+2021-09-16 23:38:53,703:lg:INFO:EDA scaling of x is done
+2021-09-16 23:38:53,710:lg:INFO:vif_score was calculated
+2021-09-16 23:39:34,179:lg:INFO:Extraction of file started
+2021-09-16 23:39:34,179:lg:INFO:Old file exist, therefore taking data from it
+2021-09-16 23:39:34,215:lg:INFO:filling empty with mean
+2021-09-16 23:39:34,221:lg:INFO:extract x and y from dataframe
+2021-09-16 23:39:34,223:lg:INFO:EDA for outlier is performed
+2021-09-16 23:39:34,238:lg:INFO:EDA scaling of x is done
+2021-09-16 23:39:34,246:lg:INFO:vif_score was calculated
+2021-09-16 23:42:38,043:lg:INFO:Extraction of file started
+2021-09-16 23:42:38,043:lg:INFO:Old file exist, therefore taking data from it
+2021-09-16 23:42:38,080:lg:INFO:filling empty with mean
+2021-09-16 23:42:38,086:lg:INFO:extract x and y from dataframe
+2021-09-16 23:42:38,087:lg:INFO:EDA for outlier is performed
+2021-09-16 23:42:38,102:lg:INFO:EDA scaling of x is done
+2021-09-16 23:42:38,111:lg:INFO:vif_score was calculated
+2021-09-16 23:45:24,177:lg:INFO:Extraction of file started
+2021-09-16 23:45:24,177:lg:INFO:Old file exist, therefore taking data from it
+2021-09-16 23:45:24,213:lg:INFO:filling empty with mean
+2021-09-16 23:45:24,219:lg:INFO:extract x and y from dataframe
+2021-09-16 23:45:24,220:lg:INFO:EDA for outlier is performed
+2021-09-16 23:45:24,233:lg:INFO:EDA scaling of x is done
+2021-09-16 23:45:24,241:lg:INFO:vif_score was started
+2021-09-16 23:45:24,325:lg:INFO:test train split is started
+2021-09-16 23:45:24,474:lg:INFO:test train split is completed
+2021-09-16 23:45:24,474:lg:INFO:fit_evaluation of model is started
+2021-09-16 23:45:28,367:lg:INFO:fit_evaluation of model is completed
+2021-09-16 23:46:35,395:lg:INFO:Extraction of file started
+2021-09-16 23:46:35,395:lg:INFO:Old file exist, therefore taking data from it
+2021-09-16 23:46:35,428:lg:INFO:filling empty with mean
+2021-09-16 23:46:35,435:lg:INFO:extract x and y from dataframe
+2021-09-16 23:46:35,436:lg:INFO:EDA for outlier is performed
+2021-09-16 23:46:35,451:lg:INFO:EDA scaling of x is done
+2021-09-16 23:46:35,459:lg:INFO:vif_score was started
+2021-09-16 23:46:35,536:lg:INFO:test train split is started
+2021-09-16 23:46:35,551:lg:INFO:test train split is completed
+2021-09-16 23:46:35,551:lg:INFO:fit_evaluation of model is started
+2021-09-16 23:46:38,613:lg:INFO:fit_evaluation of model is completed
+2021-09-18 21:26:33,655:lg:INFO:Extraction of file started
+2021-09-18 21:26:33,695:lg:INFO:Old file exist, therefore taking data from it
+2021-09-18 21:26:34,775:lg:INFO:filling empty with mean
+2021-09-18 21:26:34,792:lg:INFO:extract x and y from dataframe
+2021-09-18 21:26:34,794:lg:INFO:EDA for outlier is performed
+2021-09-18 21:26:34,998:lg:INFO:EDA scaling of x is done
+2021-09-18 21:26:35,037:lg:INFO:vif_score was started
+2021-09-18 21:26:35,973:lg:INFO:test train split is started
+2021-09-18 21:26:36,159:lg:INFO:test train split is completed
+2021-09-18 21:26:36,159:lg:INFO:fit_evaluation of model is started
+2021-09-18 21:26:42,355:lg:INFO:fit_evaluation of model is completed
+2021-09-18 21:39:09,419:lg:INFO:Extraction of file started
+2021-09-18 21:39:09,419:lg:INFO:Old file exist, therefore taking data from it
+2021-09-18 21:39:09,457:lg:INFO:filling empty with mean
+2021-09-18 21:39:09,464:lg:INFO:extract x and y from dataframe
+2021-09-18 21:39:09,466:lg:INFO:EDA for outlier is performed
+2021-09-18 21:39:09,482:lg:INFO:EDA scaling of x is done
+2021-09-18 21:39:09,491:lg:INFO:vif_score was started
+2021-09-18 21:39:09,572:lg:INFO:test train split is started
+2021-09-18 21:39:09,588:lg:INFO:test train split is completed
+2021-09-18 21:39:09,588:lg:INFO:fit_evaluation of model is started
+2021-09-18 21:39:13,221:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:00:51,875:lg:INFO:Extraction of file started
+2021-09-24 23:00:51,938:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:00:52,007:lg:INFO:filling empty with mean
+2021-09-24 23:00:52,023:lg:INFO:extract x and y from dataframe
+2021-09-24 23:00:52,023:lg:INFO:EDA for outlier is performed
+2021-09-24 23:00:52,076:lg:INFO:EDA scaling of x is done
+2021-09-24 23:00:52,076:lg:INFO:vif_score was started
+2021-09-24 23:00:52,176:lg:INFO:test train split is started
+2021-09-24 23:00:52,208:lg:INFO:test train split is completed
+2021-09-24 23:00:52,208:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:00:56,331:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:01:25,684:lg:INFO:Extraction of file started
+2021-09-24 23:01:25,684:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:01:25,764:lg:INFO:filling empty with mean
+2021-09-24 23:01:25,780:lg:INFO:extract x and y from dataframe
+2021-09-24 23:01:25,780:lg:INFO:EDA for outlier is performed
+2021-09-24 23:01:25,804:lg:INFO:EDA scaling of x is done
+2021-09-24 23:01:25,820:lg:INFO:vif_score was started
+2021-09-24 23:01:25,956:lg:INFO:test train split is started
+2021-09-24 23:01:25,976:lg:INFO:test train split is completed
+2021-09-24 23:01:25,976:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:01:30,438:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:01:49,064:lg:INFO:Extraction of file started
+2021-09-24 23:01:49,064:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:01:49,136:lg:INFO:filling empty with mean
+2021-09-24 23:01:49,152:lg:INFO:extract x and y from dataframe
+2021-09-24 23:01:49,152:lg:INFO:EDA for outlier is performed
+2021-09-24 23:01:49,177:lg:INFO:EDA scaling of x is done
+2021-09-24 23:01:49,192:lg:INFO:vif_score was started
+2021-09-24 23:01:49,305:lg:INFO:test train split is started
+2021-09-24 23:01:49,336:lg:INFO:test train split is completed
+2021-09-24 23:01:49,336:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:01:54,479:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:02:17,876:lg:INFO:Extraction of file started
+2021-09-24 23:02:17,876:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:02:17,939:lg:INFO:filling empty with mean
+2021-09-24 23:02:17,961:lg:INFO:extract x and y from dataframe
+2021-09-24 23:02:17,961:lg:INFO:EDA for outlier is performed
+2021-09-24 23:02:17,977:lg:INFO:EDA scaling of x is done
+2021-09-24 23:02:17,992:lg:INFO:vif_score was started
+2021-09-24 23:02:18,108:lg:INFO:test train split is started
+2021-09-24 23:02:18,140:lg:INFO:test train split is completed
+2021-09-24 23:02:18,140:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:02:21,951:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:02:47,768:lg:INFO:Extraction of file started
+2021-09-24 23:02:47,768:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:02:47,848:lg:INFO:filling empty with mean
+2021-09-24 23:02:47,856:lg:INFO:extract x and y from dataframe
+2021-09-24 23:02:47,864:lg:INFO:EDA for outlier is performed
+2021-09-24 23:02:47,888:lg:INFO:EDA scaling of x is done
+2021-09-24 23:02:47,896:lg:INFO:vif_score was started
+2021-09-24 23:02:47,976:lg:INFO:test train split is started
+2021-09-24 23:02:47,984:lg:INFO:test train split is completed
+2021-09-24 23:02:47,984:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:02:51,616:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:03:09,474:lg:INFO:Extraction of file started
+2021-09-24 23:03:09,474:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:03:09,528:lg:INFO:filling empty with mean
+2021-09-24 23:03:09,543:lg:INFO:extract x and y from dataframe
+2021-09-24 23:03:09,543:lg:INFO:EDA for outlier is performed
+2021-09-24 23:03:09,581:lg:INFO:EDA scaling of x is done
+2021-09-24 23:03:09,581:lg:INFO:vif_score was started
+2021-09-24 23:03:09,654:lg:INFO:test train split is started
+2021-09-24 23:03:09,689:lg:INFO:test train split is completed
+2021-09-24 23:03:09,689:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:03:13,718:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:03:51,698:lg:INFO:Extraction of file started
+2021-09-24 23:03:51,714:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:03:51,767:lg:INFO:filling empty with mean
+2021-09-24 23:03:51,783:lg:INFO:extract x and y from dataframe
+2021-09-24 23:03:51,783:lg:INFO:EDA for outlier is performed
+2021-09-24 23:03:51,814:lg:INFO:EDA scaling of x is done
+2021-09-24 23:03:51,814:lg:INFO:vif_score was started
+2021-09-24 23:03:51,861:lg:INFO:test train split is started
+2021-09-24 23:03:51,868:lg:INFO:test train split is completed
+2021-09-24 23:03:51,868:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:03:54,426:lg:INFO:fit_evaluation of model is completed
+2021-09-24 23:04:20,377:lg:INFO:Extraction of file started
+2021-09-24 23:04:20,377:lg:INFO:Old file exist, therefore taking data from it
+2021-09-24 23:04:20,525:lg:INFO:filling empty with mean
+2021-09-24 23:04:20,549:lg:INFO:extract x and y from dataframe
+2021-09-24 23:04:20,549:lg:INFO:EDA for outlier is performed
+2021-09-24 23:04:20,581:lg:INFO:EDA scaling of x is done
+2021-09-24 23:04:20,589:lg:INFO:vif_score was started
+2021-09-24 23:04:20,621:lg:INFO:test train split is started
+2021-09-24 23:04:20,629:lg:INFO:test train split is completed
+2021-09-24 23:04:20,629:lg:INFO:fit_evaluation of model is started
+2021-09-24 23:04:23,131:lg:INFO:fit_evaluation of model is completed
